@@ -1,7 +1,5 @@
 # Digital VLSI & SoC Design and PLanning
 
-<details>
+## <details>
 <summary> 
-## Lab 1
-<summary>/
-<details>
+Lab 1
