@@ -40,7 +40,7 @@ The highligte line `sky130_fd_sc_hd__dfxtp_2` shows the number of D-FlipFlops. u
 Flop\ Ratio = \frac{1613}{14876} = 0.108429685
 ```
 ```math
-Thus,\ Percentage\ of\ DFFs = 0.108429685 * 100 = 10.84%
+Thus,\ Percentage\ of\ DFFs = 0.108429685 * 100 = 10.84 \%
 ```
 </details>
 
