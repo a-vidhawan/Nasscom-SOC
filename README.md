@@ -1,5 +1,5 @@
 # Digital VLSI & SoC Design and PLanning
 
-## <details>
+## <details> Lab 1
+The first Lab's aim is to calculate the flop ratio for the `picorv32a` design.
 <summary> 
-Lab 1
