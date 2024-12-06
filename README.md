@@ -1,2 +1,6 @@
-# Nasscom-SOC
-VSD SoC Design and Planning Certification
+# Digital VLSI & SoC Design and PLanning
+
+<details>
+<summary> 
+## Lab 1
+<details>
