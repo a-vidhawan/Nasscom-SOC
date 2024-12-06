@@ -6,7 +6,10 @@
 Expand
   </summary>
 
-  The first Lab's aim is to calculate the flop ratio for the `picorv32a` design.
+  The first Lab's aim is to run syntheis and other steps for the `picorv32a` design.
+
+  Also, we have to calculate the flop ratio. 
+  $ Flop Ratio = (Number of D-FlipFlops / Total Number of Cells)$
 </details>
 
 ## Lab 2: 
